@@ -1,2 +1,8 @@
-# foodDelivery
-food delivary Reactjs based application frontend as react and javascript and database as firebase and developed using hooks and props, context then all the meals stored in database every order and deliverd orders are stored in the database to order accross the continent we can add new meal items and delete the data through the database
+# FoodDelivery
+FoodDelivery is an highly interactive application built using React library where users can order food online, it is similar to Zomato and swiggy.
+Technologies used:
+1. React JS :
+ a. Functional Based Programming Paradigm
+ b. React hooks: useState, useEffect, useRef, useContext
+ c. Context API (State Management)  
+2. Firebase: It is an open source database service provided by google. Here we are storing the order details of the customer for further processing, alternating we can use any Database like Postgres, MySql for this purpose. 
